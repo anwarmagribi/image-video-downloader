@@ -37,12 +37,12 @@ the downloaded content.
 Before running the application, ensure you have Python installed on your system. Then, install the 
 required packages using pip:
 
-'pip install pytube youtubesearchpython pygoogle_image requests pyfiglet colorama'
+`pip install pytube youtubesearchpython pygoogle_image requests pyfiglet colorama`
 
 ## Usage (Windows OS Only).
 
 - Open the script an run in a code interpreter (Pycharm, VsCode)
-- Enter in command prompt (in directory of script): 'python download.py'
+- Enter in command prompt (in directory of script): `python download.py`
 
 Run the script in a Python environment. Follow the on-screen prompts to enter your search query,
 choose the directory for downloads, select whether to download images, videos, or both, and specify
