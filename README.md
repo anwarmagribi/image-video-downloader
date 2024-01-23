@@ -1,4 +1,4 @@
-![image](https://github.com/anwarmagribi/image-video-downloader/assets/51727457/3d450d2b-a76e-4a3c-b0cf-9dadd8aa6930)# YouTube & Google Images Downloader
+# YouTube & Google Images Downloader
 
 ## Description
 
