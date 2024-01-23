@@ -21,16 +21,16 @@ the downloaded content.
 
 ## Packages Used
 
--pytube: For downloading videos from YouTube.
--youtubesearchpython: To search for YouTube videos based on queries.
--pygoogle_image: To search and download images from Google.
--requests: For handling HTTP requests.
--os: For file and directory operations.
--time: To handle time-related tasks.
--sys: For system-specific parameters and functions.
--subprocess: To execute shell commands.
--pyfiglet: For ASCII art text.
--colorama: To add color to the console output.
+- pytube: For downloading videos from YouTube.
+- youtubesearchpython: To search for YouTube videos based on queries.
+- pygoogle_image: To search and download images from Google.
+- requests: For handling HTTP requests.
+- os: For file and directory operations.
+- time: To handle time-related tasks.
+- sys: For system-specific parameters and functions.
+- subprocess: To execute shell commands.
+- pyfiglet: For ASCII art text.
+- colorama: To add color to the console output.
 
 ## Installation
 
@@ -41,8 +41,8 @@ required packages using pip:
 
 ## Usage (Windows OS Only).
 
--Open the script an run in a code interpreter (Pycharm, VsCode)
--Enter in command prompt (in directory of script): '''python download.py'''
+- Open the script an run in a code interpreter (Pycharm, VsCode)
+- Enter in command prompt (in directory of script): '''python download.py'''
 
 Run the script in a Python environment. Follow the on-screen prompts to enter your search query,
 choose the directory for downloads, select whether to download images, videos, or both, and specify
@@ -50,12 +50,12 @@ the number of items to download.
 
 ## Potential Issues
 
--API Changes: Changes in the YouTube API or Google Images API might cause the downloader functions to break.
--Network Issues: The program may encounter issues if there's an unstable internet connection.
--File Permissions: In certain environments, there might be issues with file permissions when trying to save downloads.
--Rate Limiting: Excessive use of APIs might trigger rate limiting.
--Compatibility: The script's compatibility with future versions of Python or its dependencies is not guaranteed.
--First three images downloaded may display unrelated icons. These can be saftely deleted.
+- API Changes: Changes in the YouTube API or Google Images API might cause the downloader functions to break.
+- Network Issues: The program may encounter issues if there's an unstable internet connection.
+- File Permissions: In certain environments, there might be issues with file permissions when trying to save downloads.
+- Rate Limiting: Excessive use of APIs might trigger rate limiting.
+- Compatibility: The script's compatibility with future versions of Python or its dependencies is not guaranteed.
+- First three images downloaded may display unrelated icons. These can be saftely deleted.
 
 ## License
 
