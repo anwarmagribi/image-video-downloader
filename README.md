@@ -13,11 +13,11 @@ the downloaded content.
 
 ## Features
 
--Download images from Google based on a search query.
--Download videos from YouTube, with options to sort by relevance, upload date, or view count.
--Customizable download path for saving images and videos.
--Option to download either images, videos, or both.
--Restart and exit functionalities.
+- Download images from Google based on a search query.
+- Download videos from YouTube, with options to sort by relevance, upload date, or view count.
+- Customizable download path for saving images and videos.
+- Option to download either images, videos, or both.
+- Restart and exit functionalities.
 
 ## Packages Used
 
